@@ -1,0 +1,12 @@
+body {
+    background: yellow;
+}
+
+#container {
+    width: 960px;
+    margin: 0px auto;
+}
+.blog-title {
+    font-size: 20px;
+    font-weight: bold;
+}
