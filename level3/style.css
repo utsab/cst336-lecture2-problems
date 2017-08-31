@@ -5,14 +5,22 @@
 
 #left-col {
     background: pink;
+    float: left;
+    width: 49%;
 }
 
 #right-col {
     background: blue;
+    float: right;
+    width: 49%;
 }
 
 #footer {
     padding: 20px;
     background:black;
     color: white;
+}
+
+.clear {
+    clear: both;
 }
