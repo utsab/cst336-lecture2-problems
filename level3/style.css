@@ -1,0 +1,18 @@
+#header {
+    padding: 50px;
+    background: yellow;
+}
+
+#left-col {
+    background: pink;
+}
+
+#right-col {
+    background: blue;
+}
+
+#footer {
+    padding: 20px;
+    background:black;
+    color: white;
+}
