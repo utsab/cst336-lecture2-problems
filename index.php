@@ -10,6 +10,9 @@
         </li>
         <li>
             <a href="level2/structure.html">Level 2</a>
+        </li>      
+        <li>
+            <a href="level3/structure.html">Level 3</a>
         </li>
     </ul>
 </body>
